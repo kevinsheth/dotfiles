@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<map name="AssignmentPanels">
+		<value name="InfoPopupVisible">false</value>
+	</map>
+	<map name="Backup">
+		<value name="Version">4.23.137</value>
+	</map>
+	<map name="CommonSettings">
+		<value name="DemoDeviceModeEnabled">false</value>
+	</map>
+	<map name="DataCollectionSettings">
+		<value name="first_appearance_at">2022-05-16T14:08:37.715Z</value>
+		<value name="first_icue_ver">4.23.137</value>
+		<value name="inited">true</value>
+		<value name="previous_close_timestamp">1654176049426</value>
+		<value name="session_ended">false</value>
+		<value name="total_icue_starts">5</value>
+		<value name="total_time_used">320560911</value>
+		<value name="user_id">0116adaa19b30dc0a422f5da5fb444f48fb8bcd0def1653a836c9bc9669580ab</value>
+	</map>
+	<map name="DeviceListWatcher">
+		<map name="device_list">
+			<map name="1">
+				<value name="device_id">aebc0edcf81ec5f7579ae6e5200f3be4</value>
+				<value name="device_type">1</value>
+				<value name="is_connected">true</value>
+				<value name="is_corsair">true</value>
+				<value name="last_appearance">2023-07-20T11:20:41.042</value>
+				<value name="model_name">STRAFE RGB MK.2</value>
+				<value name="pid">0</value>
+				<value name="serial_number">12017037AF29A5295A9B120AF5001BC5</value>
+				<value name="vid">0</value>
+			</map>
+			<map name="2">
+				<value name="device_id">5290236b09262d9530d8d8a881430122</value>
+				<value name="device_type">4</value>
+				<value name="is_connected">false</value>
+				<value name="is_corsair">true</value>
+				<value name="last_appearance">2022-10-10T10:32:24.291</value>
+				<value name="model_name">VIRTUOSO SE</value>
+				<value name="pid">0</value>
+				<value name="serial_number"></value>
+				<value name="vid">0</value>
+			</map>
+			<value name="size">2</value>
+		</map>
+		<value name="device_list_saved_correctly">true</value>
+	</map>
+	<map name="Devices">
+		<map name="STRAFE RGB MK.2">
+			<map name="{1b0d8bfb-6d42-4e53-9f57-b0f99edfc287}">
+				<value name="BrightnessLevel">33</value>
+				<value name="DeviceName">STRAFE RGB MK.2</value>
+				<value name="FirstDetected">2022-05-16T20:37:10.936Z</value>
+				<binary name="Layout">%00%00%04%00%00%00%00%00%1Ccue%3A%3Aglobal%3A%3AKeyboardLayout%00%00%00%00%02%002</binary>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelExtensionsTypes">%00%00%04%00%00%00%00%006QVector%3CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%20%3E%00%00%00%00%01%00%00%00%00</binary>
+				<binary name="LedChannelSynchronizations">%00%00%04%00%00%00%00%00%0EQVector%3Cbool%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypeCombinations">%00%00%04%00%00%00%00%006QVector%3CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%20%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="UniqueDeviceId">{590a1c78-9bc3-438f-9ee7-c9d32866a42f}</value>
+			</map>
+		</map>
+		<binary name="UniqueDeviceIds">%00%00%04%00%00%00%00%005QHash%3CQUuid%2CUniqueDeviceIdStorage%3A%3AUniqueDeviceData%3E%00%00%00%00%033%25%3E%E6%3B%84L%D6%89%11m5%3E%06%12%9C%00%00%1B%1C%00%00%0AF%00%00%00%20%001%006%007%004%004%008%001%004%000%000%000%000%000%000%00d%00c%00%00%00%08W%137%94%3F%D2%CCw%1B%0D%8B%FBmBNS%9FW%B0%F9%9E%DF%C2%87%00%00%1B%1C%00%00%1BH%00%00%00%40%001%002%000%001%007%000%003%007%00A%00F%002%009%00A%005%002%009%005%00A%009%00B%001%002%000%00A%00F%005%000%000%001%00B%00C%005%FF%FF%FF%FF%FBjL%7B%1D%C3JI%B0%1F%D9P%0EQ2%03%00%00%1B%1C%00%00%0A%3D%FF%FF%FF%FF%00%00%00%08W%137%94%3F%D2%CCw</binary>
+		<map name="VIRTUOSO SE">
+			<map name="{fb6a4c7b-1dc3-4a49-b01f-d9500e513203}">
+				<value name="BrightnessLevel">33</value>
+				<value name="DeviceName">VIRTUOSO SE</value>
+				<value name="FirstDetected">2022-05-16T14:05:24.402Z</value>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelExtensionsTypes">%00%00%04%00%00%00%00%006QVector%3CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%20%3E%00%00%00%00%01%00%00%00%00</binary>
+				<binary name="LedChannelSynchronizations">%00%00%04%00%00%00%00%00%0EQVector%3Cbool%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypeCombinations">%00%00%04%00%00%00%00%006QVector%3CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%20%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="LightingMode">Software</value>
+				<value name="SleepModeEnabled">true</value>
+				<value name="SleepModeWaitDelaySec">600</value>
+				<value name="UniqueDeviceId">{adc7780b-6679-4a6a-99e0-ee5b53aad110}</value>
+				<value name="UniqueDongleId">{ce64fe47-78c4-4c54-b652-ef305fd05f5c}</value>
+			</map>
+		</map>
+		<map name="VIRTUOSO SE DONGLE">
+			<map name="{33253ee6-3b84-4cd6-8911-6d353e06129c}">
+				<value name="DeviceName">VIRTUOSO SE WIRELESS RECEIVER</value>
+				<value name="FirstDetected">2022-05-16T14:05:24.363Z</value>
+				<binary name="Layout">%00%00%04%00%00%00%00%00%1Ccue%3A%3Aglobal%3A%3AKeyboardLayout%00%00%00%00%02%001</binary>
+				<binary name="LedChannelCounts">%00%00%04%00%00%00%00%00%0DQVector%3Cint%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelExtensionsTypes">%00%00%04%00%00%00%00%006QVector%3CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%20%3E%00%00%00%00%01%00%00%00%00</binary>
+				<binary name="LedChannelSynchronizations">%00%00%04%00%00%00%00%00%0EQVector%3Cbool%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypeCombinations">%00%00%04%00%00%00%00%006QVector%3CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%20%3E%00%00%00%00%00</binary>
+				<binary name="LedChannelTypes">%00%00%04%00%00%00%00%00%2CQVector%3Ccue%3A%3Adev%3A%3Amanifest%3A%3ALedChannelType%3E%00%00%00%00%01%00%00%00%0CNotConnected</binary>
+				<value name="LightingMode">Software</value>
+				<value name="UniqueDeviceId">{8cb7b8b7-aee0-4298-93b0-9fbd7852a328}</value>
+			</map>
+		</map>
+	</map>
+	<map name="HWPInfoPopup">
+		<value name="InfoPopupVisible">false</value>
+	</map>
+	<value name="Language">en</value>
+	<value name="LastLoadedAppVersion">4.23.137</value>
+	<map name="LightingLibraryStorage">
+		<value name="version">401</value>
+	</map>
+	<map name="Lightings">
+		<map name="Instant">
+			<value name="Enabled">false</value>
+		</map>
+	</map>
+	<map name="Profiles">
+		<binary name="StoredToDevice">%00%00%00%09%00%00%00%00%03%00%00%00%1E%00H%1B%00%00%01%00%00%00%00%00%00%00%00%00%00%00%00%00%00%1E%00H%1B%00%00%02%00%00%00%00%00%00%00%00%00%00%00%00%00%00%1E%00H%1B%00%00%03%00%00%00%00%00%00%00%00%00%00%00</binary>
+	</map>
+	<map name="QQControlsFileDialog">
+		<binary name="favoriteFolders">%00%00%00%09%00%00%00%00%00</binary>
+		<value name="height">0</value>
+		<value name="sidebarSplit">139.5</value>
+		<value name="sidebarVisible">true</value>
+		<value name="sidebarWidth">80</value>
+		<value name="width">0</value>
+	</map>
+	<map name="Scenes">
+		<value name="ActiveSceneId">2cc1bf13-a431-43e6-bc95-3f06ba923fdf</value>
+	</map>
+	<map name="SwUpdate">
+		<value name="LastCheckDate">2023-07-23</value>
+	</map>
+	<value name="defaultProfile">{6cd71b5b-3931-40b3-b349-10604b36d69e}</value>
+</config>
