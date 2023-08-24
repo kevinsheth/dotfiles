@@ -11,8 +11,12 @@ cask 'discord'
 cask '1password'
 cask 'warp'
 cask "1password/tap/1password-cli"
+cask 'miniconda'
+cask 'brave-browser'
 
 
+brew 'rust'
+brew 'rustup'
 brew 'git'
 brew 'neovim'
 brew 'lazygit'
