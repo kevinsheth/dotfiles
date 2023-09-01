@@ -2,20 +2,6 @@ local cmp = require "cmp"
 
 local plugins = {
   {
-    "dreamsofcode-io/ChatGPT.nvim",
-    event = "VeryLazy",
-    dependencies = {
-      "MunifTanjim/nui.nvim",
-      "nvim-lua/plenary.nvim",
-      "nvim-telescope/telescope.nvim"
-    },
-    config = function()
-      require("chatgpt").setup({
-        async_api_key_cmd = "op item get ttzu74dzlu5b7grtrl5ucvrdyq --fields credential",
-      })
-    end,
-  },
-  {
     "rcarriga/nvim-dap-ui",
     dependencies = "mfussenegger/nvim-dap",
     config = function()
