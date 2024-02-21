@@ -6,3 +6,7 @@ op
 .zshrc
 .codeium
 .pypirc
+
+# Contains P Credentials
+
+.config/gh/hosts.yml
