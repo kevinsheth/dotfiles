@@ -2,9 +2,9 @@ arch-install-scripts
 base
 bat
 eza
-fakeroot-tcp
 gcc
 git
+github-cli
 nano
 neovim
 npm
