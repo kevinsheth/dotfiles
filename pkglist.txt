@@ -12,3 +12,5 @@ stow
 sudo
 vim
 zoxide
+go
+python
