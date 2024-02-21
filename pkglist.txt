@@ -1,0 +1,14 @@
+arch-install-scripts
+base
+bat
+eza
+fakeroot-tcp
+gcc
+git
+nano
+neovim
+npm
+stow
+sudo
+vim
+zoxide
