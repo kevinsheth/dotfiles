@@ -3,7 +3,6 @@ op
 
 # Contains FT Credentials
 
-.zshrc
 .codeium
 .pypirc
 
