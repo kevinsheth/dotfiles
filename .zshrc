@@ -5,3 +5,7 @@ eval "$(zoxide init bash)"
 alias cat='bat'
 alias cd='z'
 alias ls='eza'
+
+
+# Coursier
+alias cs='coursier'
